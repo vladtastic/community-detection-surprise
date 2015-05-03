@@ -1,0 +1,6 @@
+Number of Vertices: 34
+Number of Edges: 78
+
+Read I/O Time: 0.002867
+Cluster Time: 0.002507
+Write I/O Time: 0.003568

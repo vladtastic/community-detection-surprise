@@ -1,0 +1,90 @@
+Adding user vcoxall3 to group authjobs
+
+==================================================
+Script began on Fri Dec  7 01:12:35 EST 2012
+Node: jinx2
+Working directory: /nethome/vcoxall3/fa12/mga/project
+==================================================
+
+zachary.txt
+	S: 0.139037	deltaQ: 0.012821
+	S: 0.019118	deltaQ: 0.012821
+	S: 0.002599	deltaQ: 0.012821
+	S: 0.000349	deltaQ: 0.012821
+	S: 0.000046	deltaQ: 0.025641
+	S: 0.000037	deltaQ: 0.012821
+	S: 0.000188	deltaQ: 0.012821
+	S: 0.000807	deltaQ: 0.012821
+	S: 0.000401	deltaQ: 0.051282
+	S: 0.001440	deltaQ: 0.012821
+	S: 0.000363	deltaQ: 0.025641
+	S: 0.000302	deltaQ: 0.064103
+	S: 0.001067	deltaQ: 0.012821
+	S: 0.001165	deltaQ: 0.089744
+	S: 0.000527	deltaQ: 0.076923
+	S: 0.014685	deltaQ: 0.025641
+	S: 0.005461	deltaQ: 0.012821
+	S: 0.017458	deltaQ: 0.128205
+	S: 0.053399	deltaQ: 0.012821
+	S: 0.143525	deltaQ: 0.153846
+	S: 0.107965	deltaQ: 0.025641
+	S: 0.243133	deltaQ: 0.012821
+	S: 0.142231	deltaQ: 0.012821
+	S: 0.194365	deltaQ: 0.153846
+	S: 0.002821	deltaQ: 0.141026
+	S: 0.001315	deltaQ: 0.282051
+	S: 0.002072	deltaQ: 0.294872
+	S: 0.000162	deltaQ: 0.038462
+	S: 0.000240	deltaQ: 0.012821
+	S: 0.000045	deltaQ: 0.294872
+	S: 0.000132	deltaQ: 0.064103
+	S: 0.000002	deltaQ: 0.064103
+	S: 1.000000	deltaQ: 0.051282
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+	deltaQ: -1.000000
+Clustering Completed.
+Writing Join List.
+Writing Timing File.
+Removing user vcoxall3 from group authjobs
